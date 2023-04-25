@@ -1,7 +1,7 @@
 # Full stack web Developer
 
 ## Frontend Development
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![img](http://i.imgur.com/yourfilename.png)
 
 > Html Scss Tailwind Css Chakra UI [`First`](https://github.com/legendtemplate/Roadmap/tree/main/First). 
 
