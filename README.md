@@ -1,7 +1,6 @@
 # Full stack web Developer
 
 ## Frontend Development
-![img](http://i.imgur.com/yourfilename.png)
 
 > Html Scss Tailwind Css Chakra UI [`First`](https://github.com/legendtemplate/Roadmap/tree/main/First). 
 
