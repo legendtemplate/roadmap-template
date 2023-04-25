@@ -2,7 +2,6 @@
 
 ## Frontend Development
 
-
 > Html Scss Tailwind Css Chakra UI [`First`](https://github.com/legendtemplate/Roadmap/tree/main/First). 
 
 > [`Git Cheat Sheet`](https://education.github.com/git-cheat-sheet-education.pdf).
