@@ -1,7 +1,5 @@
-
-
-### Javascript
+### Framer Motion
 
 ***
 
-### Typescript
+### GSAP  

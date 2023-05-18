@@ -1,7 +1,3 @@
-
-
-### Javascript
+### Redux
 
 ***
-
-### Typescript
