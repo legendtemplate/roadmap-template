@@ -17,7 +17,7 @@
 
 | [Second](https://github.com/legendtemplate/roadmap-template/tree/main/Second) | |||
 | ----        | ----           | ----            | ----           |
-| Javascript        | See Details    | Typescript             | See Details    |
+| Javascript  | See Details    | Typescript      | See Details    |
 
 ---
 
@@ -29,13 +29,14 @@
 ---
 
 ### React js Framework
+ 
+| Technology | |||
+| ----        | ----           | ----            | ----           |
+| Next JS  | [See Details](https://github.com/legendtemplate/roadmap-template/tree/main/react/framework/nextjs) | 
+Remix JS| [See Details](https://github.com/legendtemplate/roadmap-template/tree/main/react/framework/remixjs)   |                              |
+| Gatsby JS| [See Details](https://github.com/legendtemplate/roadmap-template/tree/main/react/framework/gatsbyjs)                             | Expo (for apps)        | [See Details](https://github.com/legendtemplate/roadmap-template/tree/main/react/framework/expo)   |                              |
+|
 
-| Technology  |                                   |
-| --------------- | --------------------------------- |
-| Next JS         | [See Details](https://github.com/legendtemplate/roadmap-template/tree/main/react/framework/nextjs) |
-| Remix JS        | [See Details](https://github.com/legendtemplate/roadmap-template/tree/main/react/framework/remixjs) |
-| Gatsby JS       | [See Details](https://github.com/legendtemplate/roadmap-template/tree/main/react/framework/gatsbyjs) |
-| Expo (for apps) | [plugins/github/README.md](https://github.com/legendtemplate/roadmap-template/tree/main/react/framework/expo)  |
 
 ---
 
@@ -84,7 +85,9 @@
 
 [![Hello](https://cdn.hashnode.com/res/hashnode/image/upload/v1683963073446/b6da9f72-e6dc-465e-baa1-bf9520edd38c.png)](https://nodesource.com/products/nsolid)
 
-
-
+<!-- 
+git add .
+git commit -m "updated  : 16:14 18/05/2023"
+git push -->
 
 
