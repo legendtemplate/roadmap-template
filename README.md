@@ -34,7 +34,7 @@
 
 ---
 
-### [Other Tools](https://github.com/legendtemplate/roadmap-template/tree/main/5) 
+### [Other Tools](https://github.com/legendtemplate/roadmap-template/tree/main/5)
 
 | Technology |     |     |     |
 | ---------- | --- | --- | --- |
@@ -42,7 +42,7 @@
 
 ---
 
-[![Hello](https://img.freepik.com/premium-vector/front-end-developer-typographic-header_277904-11487.jpg?w=2000)](https://nodesource.com/products/nsolid)
+[![Hello](https://github.com/legendtemplate/roadmap-template/tree/main/Frontendproject)](https://nodesource.com/products/nsolid)
 
 ## Backend Development
 
