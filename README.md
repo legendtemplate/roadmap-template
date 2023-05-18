@@ -34,7 +34,7 @@
 
 ---
 
-### [Other Tools](https://github.com/legendtemplate/roadmap-template/tree/main/5) 
+### [Other Tools](https://github.com/legendtemplate/roadmap-template/tree/main/5)
 
 | Technology |     |     |     |
 | ---------- | --- | --- | --- |
@@ -42,18 +42,17 @@
 
 ---
 
+### CMS
+
+| Technology |        |            |           |
+| ---------- | ------ | ---------- | --------- |
+| Sanity     | Strapi | Contentful | Storyblok |
+
+---
+
 [![Hello](https://img.freepik.com/premium-vector/front-end-developer-typographic-header_277904-11487.jpg?w=2000)](https://github.com/legendtemplate/roadmap-template/tree/main/Frontendproject)
 
 ## Backend Development
-
-### CMS
-
-| Technology |                     |
-| ---------- | ------------------- |
-| Sanity     | [See Details][PlDb] |
-| Strapi     | [See Details][PlDb] |
-| Contentful | [See Details][PlDb] |
-| Storyblok  | [See Details][PlDb] |
 
 ### Backend
 
