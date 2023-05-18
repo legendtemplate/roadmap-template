@@ -2,7 +2,7 @@
 
 ## Frontend Development
 
-### [Styling & Structure](https://github.com/legendtemplate/roadmap-template/tree/main/First)
+### [Styling & Structure](https://github.com/legendtemplate/roadmap-template/tree/main/1)
 
 | Technology |     |      |            |              |             |           |
 | ---------- | --- | ---- | ---------- | ------------ | ----------- | --------- |
@@ -10,7 +10,7 @@
 
 ---
 
-### [Functionality](https://github.com/legendtemplate/roadmap-template/tree/main/Second)
+### [Functionality](https://github.com/legendtemplate/roadmap-template/tree/main/2)
 
 | Technology |            |
 | ---------- | ---------- |
@@ -18,7 +18,7 @@
 
 ---
 
-### [Javascript Framework](https://github.com/legendtemplate/roadmap-template/tree/main/Second)
+### [Javascript Framework](https://github.com/legendtemplate/roadmap-template/tree/main/3)
 
 | Technology |                 |
 | ---------- | --------------- |
@@ -26,11 +26,19 @@
 
 ---
 
-### React js Framework
+### [React js Framework](https://github.com/legendtemplate/roadmap-template/tree/main/4)
 
 | Technology |          |           |                 |
 | ---------- | -------- | --------- | --------------- |
 | Next JS    | Remix JS | Gatsby JS | Expo (for apps) |
+
+---
+
+### [Other Tools](https://github.com/legendtemplate/roadmap-template/tree/main/5) 
+
+| Technology |     |     |     |
+| ---------- | --- | --- | --- |
+| Redux      |     |     |     |
 
 ---
 
@@ -80,5 +88,5 @@
 [![Hello](https://cdn.hashnode.com/res/hashnode/image/upload/v1683963073446/b6da9f72-e6dc-465e-baa1-bf9520edd38c.png)](https://nodesource.com/products/nsolid)
 
 git add .
-git commit -m "updated : 16:34 18/05/2023"
+git commit -m "updated : 16:37 18/05/2023"
 git push
