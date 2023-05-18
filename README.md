@@ -2,7 +2,7 @@
 
 ## Frontend Development
 
-### [Styling & Structure](https://github.com/legendtemplate/roadmap-template/tree/main/1)
+### [Styling & Structure](https://github.com/legendtemplate/roadmap-template/tree/main/0)
 
 | Technology |     |      |            |              |             |           |
 | ---------- | --- | ---- | ---------- | ------------ | ----------- | --------- |
@@ -10,11 +10,19 @@
 
 ---
 
-### [Functionality](https://github.com/legendtemplate/roadmap-template/tree/main/2)
+### [Functionality](https://github.com/legendtemplate/roadmap-template/tree/main/1)
 
 | Technology |            |
 | ---------- | ---------- |
 | Javascript | Typescript |
+
+---
+
+### [Animation](https://github.com/legendtemplate/roadmap-template/tree/main/2)
+
+| Technology    |      |
+| ------------- | ---- |
+| Framer Motion | GSAP |
 
 ---
 
@@ -56,36 +64,30 @@
 
 ### Backend
 
-| Technology |                                   |
-| ---------- | --------------------------------- |
-| Node js    | [plugins/dropbox/README.md][PlDb] |
-| Express Js | [plugins/dropbox/README.md][PlDb] |
-| Prisma     | [plugins/dropbox/README.md][PlDb] |
+| Technology |            |        |
+| ---------- | ---------- | ------ |
+| Node js    | Express Js | Prisma |
 
 ---
 
 ### Authentication
 
-| Technology |                                   |
-| ---------- | --------------------------------- |
-| Autho      | [plugins/dropbox/README.md][PlDb] |
-| NextAuth   | [plugins/dropbox/README.md][PlDb] |
-| JWT        | [plugins/dropbox/README.md][PlDb] |
+| Technology |          |     |
+| ---------- | -------- | --- |
+| AuthO      | NextAuth | JWT |
 
 ---
 
 ### Database
 
-| Technology |                                   |
-| ---------- | --------------------------------- |
-| MongoDB    | [plugins/dropbox/README.md][PlDb] |
-| Firebase   | [plugins/dropbox/README.md][PlDb] |
-| Postgresql | [plugins/dropbox/README.md][PlDb] |
+| Technology |         |            |
+| ---------- | ------- | ---------- |
+| Firebase   | MongoDB | Postgresql |
 
 ---
 
 [![Hello](https://cdn.hashnode.com/res/hashnode/image/upload/v1683963073446/b6da9f72-e6dc-465e-baa1-bf9520edd38c.png)](https://nodesource.com/products/nsolid)
 
 git add .
-git commit -m "updated : 16:46 18/05/2023"
+git commit -m "updated : 17:14 18/05/2023"
 git push
