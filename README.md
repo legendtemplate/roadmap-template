@@ -4,24 +4,20 @@
 
 ### Styling & Structure
 
-| [First](https://github.com/legendtemplate/roadmap-template/tree/main/First) |                                       |
-| --------------------------------------------------------------------------- | ------------------------------------- |
-| HTML                                                                        | See Details    |
-| CSS                                                                         | See Details    |
-| SCSS                                                                        | See Details    |
-| Tailwind CSS                                                                | See Details    |
-| Chakura UI                                                                  | See Details    |
-| Material UI                                                                 | See Details    |
-| Bootstrap                                                                   | See Details    |
+| [First](https://github.com/legendtemplate/roadmap-template/tree/main/First) | |||
+| ----        | ----           | ----            | ----           |
+| HTML        | See Details    | CSS             | See Details    |
+| SCSS        | See Details    | Tailwind CSS    | See Details    |
+| Chakura UI  | See Details    | Material UI     | See Details    |
+| Bootstrap   | See Details    |
 
 ---
 
 ### Functionality
 
-| [Technology](https://github.com/legendtemplate/roadmap-template/tree/main/Second) |                                   |
-| --------------------------------------------------------------------------------- | --------------------------------- |
-| Javascript                                                                        | See Details|
-| Typescript                                                                        | See Details  |
+| [Second](https://github.com/legendtemplate/roadmap-template/tree/main/Second) | |||
+| ----        | ----           | ----            | ----           |
+| Javascript        | See Details    | Typescript             | See Details    |
 
 ---
 
