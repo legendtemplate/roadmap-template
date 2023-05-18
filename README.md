@@ -58,7 +58,7 @@
 
 ---
 
-### [Git & Github]()
+### [Git & Github](https://education.github.com/git-cheat-sheet-education.pdf)
 
 ---
 [![Hello](https://img.freepik.com/premium-vector/front-end-developer-typographic-header_277904-11487.jpg?w=2000)](https://github.com/legendtemplate/roadmap-template/tree/main/7-Frontendproject)
@@ -92,5 +92,5 @@
 [![Hello](https://cdn.hashnode.com/res/hashnode/image/upload/v1683963073446/b6da9f72-e6dc-465e-baa1-bf9520edd38c.png)](https://nodesource.com/products/nsolid)
 
 git add .
-git commit -m "updated : 17:49 18/05/2023"
+git commit -m "updated : 18:20 18/05/2023"
 git push
