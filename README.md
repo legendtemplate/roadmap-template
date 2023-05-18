@@ -2,27 +2,27 @@
 
 ## Frontend Development
 
-### Styling & Structure
-
-| [First](https://github.com/legendtemplate/roadmap-template/tree/main/First) | |||
-| ----           | ----           | ----            | ----           |
+### [Styling & Structure](https://github.com/legendtemplate/roadmap-template/tree/main/First)
+| Technology     |                |             |                |
+| ----           | ----           | ----        | ----           |
 | HTML           | CSS            | Scss        | Chakura UI     |
 | Tailwind CSS   | Material UI    | Bootstrap   |     |
 
 ---
 
-### Functionality
+### [Functionality](https://github.com/legendtemplate/roadmap-template/tree/main/Second) 
 
-| [Second](https://github.com/legendtemplate/roadmap-template/tree/main/Second) | |||
-| ----        | ----           | ----            | ----           |
-| Javascript  | See Details    | Typescript      | See Details    |
+| Technology        |                |
+| ----              | ----           |
+| Javascript        | Typescript     |
 
 ---
 
 ### Javascript Framework
-| Technology  | |||
-| ----        | ----           | ----            | ----           |
-| React JS         | [See Details](https://github.com/legendtemplate/roadmap-template/tree/main/react)      | React Native JS             | [See Details](https://github.com/legendtemplate/roadmap-template/tree/main/react/app)  |
+| Technology        |                |
+| ----              | ----           |
+| [React JS ](https://github.com/legendtemplate/roadmap-template/tree/main/react)      |                                                   [React Native JS](https://github.com/legendtemplate/roadmap-template/tree/main/react/app)     |
+
 
 ---
 
@@ -85,7 +85,7 @@ Remix JS| [See Details](https://github.com/legendtemplate/roadmap-template/tree/
 
 
 git add .
-git commit -m "updated  : 16:19 18/05/2023"
+git commit -m "updated  : 16:28 18/05/2023"
 git push
 
 
