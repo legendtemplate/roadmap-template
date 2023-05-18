@@ -2,7 +2,7 @@
 ## Frontend Development
 
 ### Styling & Structure
-| [Technology](https://github.com/legendtemplate/roadmap-template/tree/main/First) |  |
+| [First](https://github.com/legendtemplate/roadmap-template/tree/main/First) |  |
 | ------ | ------ |
 | HTML | [plugins/dropbox/README.md][PlDb] |
 | CSS | [plugins/dropbox/README.md][PlDb] |

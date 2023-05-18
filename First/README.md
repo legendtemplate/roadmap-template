@@ -34,23 +34,23 @@
 ***
 
 ### Tailwind CSS
+```bash
+npm install -D tailwindcss postcss autoprefixer
+```
+[`Tailwind CSS`](https://tailwindcss.com/docs/installation/framework-guides).
 [`Tailwind CSS cheatsheet`](https://tailwindcomponents.com/cheatsheet/).
-[`Tailwind CSS components`](https://tailwindui.com/components). 
-[`tailwind elements`](https://tailwind-elements.com/docs/standard/getting-started/quick-start/).
-[`Tailwind components`](https://tailwindcomponents.com/components). 
-[`hyperui components`](https://www.hyperui.dev/). 
-[`Flowbite components`](https://flowbite.com/docs/getting-started/quickstart/). 
-[`Tailwindcss components`](https://v1.tailwindcss.com/). 
-[`merakiui components`](https://merakiui.com/components).
-[`Daisy UI components`](https://daisyui.com/).
-[`tailwinduikit components`](https://tailwinduikit.com/). 
 
 ***
 
 ### Chakra UI
+```bash
+npm i @chakra-ui/react @chakra-ui/icons @emotion/react @emotion/styled framer-motion react-icons
+```
 [`Chakura UI`](https://chakra-ui.com/docs/components).
 [`Choc UI`](https://choc-ui.com/).
 [`Chakra template`](https://chakra-templates.dev/components/cards).
 [`Chakura UI`](https://chakra-ui-cheatsheet.vercel.app/).
+
+***
 
 ### Material UI
