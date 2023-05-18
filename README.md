@@ -5,11 +5,9 @@
 ### Styling & Structure
 
 | [First](https://github.com/legendtemplate/roadmap-template/tree/main/First) | |||
-| ----        | ----           | ----            | ----           |
-| HTML        | See Details    | CSS             | See Details    |
-| SCSS        | See Details    | Tailwind CSS    | See Details    |
-| Chakura UI  | See Details    | Material UI     | See Details    |
-| Bootstrap   | See Details    |
+| ----           | ----           | ----            | ----           |
+| HTML           | CSS            | Scss        | Chakura UI     |
+| Tailwind CSS   | Material UI    | Bootstrap   |     |
 
 ---
 
@@ -85,9 +83,9 @@ Remix JS| [See Details](https://github.com/legendtemplate/roadmap-template/tree/
 
 [![Hello](https://cdn.hashnode.com/res/hashnode/image/upload/v1683963073446/b6da9f72-e6dc-465e-baa1-bf9520edd38c.png)](https://nodesource.com/products/nsolid)
 
-<!-- 
+
 git add .
-git commit -m "updated  : 16:14 18/05/2023"
-git push -->
+git commit -m "updated  : 16:19 18/05/2023"
+git push
 
 
