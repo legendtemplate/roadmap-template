@@ -59,4 +59,23 @@ Check [`prisma documentation`](https://github.com/legendtemplate/Roadmap/tree/ma
 
 Check [`Project web 2.0`](https://github.com/legendtemplate/Roadmap/tree/main/Project).
 
+#  Full Stack Web Development
 
+## Frontend Development
+### Structure
+> HTML
+***
+
+### Styling
+| Styling |  |
+| ------ | ------ |
+| CSS | [plugins/dropbox/README.md][PlDb] |
+| SCSS | [plugins/github/README.md][PlGh] |
+| Tailwind CSS | [plugins/googledrive/README.md][PlGd] |
+| Chakura UI | [plugins/onedrive/README.md][PlOd] |
+| Material UI | [plugins/medium/README.md][PlMe] |
+
+***
+
+
+## Backend Development
