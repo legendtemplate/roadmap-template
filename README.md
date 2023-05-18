@@ -6,13 +6,13 @@
 
 | [First](https://github.com/legendtemplate/roadmap-template/tree/main/First) |                                       |
 | --------------------------------------------------------------------------- | ------------------------------------- |
-| HTML                                                                        | [plugins/dropbox/README.md][PlDb]     |
-| CSS                                                                         | [plugins/dropbox/README.md][PlDb]     |
-| SCSS                                                                        | [plugins/github/README.md][PlGh]      |
-| Tailwind CSS                                                                | [plugins/googledrive/README.md][PlGd] |
-| Chakura UI                                                                  | [plugins/onedrive/README.md][PlOd]    |
-| Material UI                                                                 | [plugins/medium/README.md][PlMe]      |
-| Bootstrap                                                                   | [plugins/medium/README.md][PlMe]      |
+| HTML                                                                        | See Details    |
+| CSS                                                                         | See Details    |
+| SCSS                                                                        | See Details    |
+| Tailwind CSS                                                                | See Details    |
+| Chakura UI                                                                  | See Details    |
+| Material UI                                                                 | See Details    |
+| Bootstrap                                                                   | See Details    |
 
 ---
 
@@ -20,8 +20,8 @@
 
 | [Technology](https://github.com/legendtemplate/roadmap-template/tree/main/Second) |                                   |
 | --------------------------------------------------------------------------------- | --------------------------------- |
-| Javascript                                                                        | [plugins/dropbox/README.md][PlDb] |
-| Typescript                                                                        | [plugins/dropbox/README.md][PlDb] |
+| Javascript                                                                        | See Details|
+| Typescript                                                                        | See Details  |
 
 ---
 
@@ -29,19 +29,19 @@
 
 | Technology          |                                                                                       |
 | ------------------- | ------------------------------------------------------------------------------------- |
-| [React JS]()        | [See Details](https://github.com/legendtemplate/roadmap-template/tree/main/react)     |
-| [React Native JS]() | [See Details](https://github.com/legendtemplate/roadmap-template/tree/main/react/app) |
+| React JS        | [See Details](https://github.com/legendtemplate/roadmap-template/tree/main/react)     |
+| React Native JS | [See Details](https://github.com/legendtemplate/roadmap-template/tree/main/react/app) |
 
 ---
 
 ### React js Framework
 
-| [Technology]()  |                                   |
+| Technology  |                                   |
 | --------------- | --------------------------------- |
-| Next JS         | [plugins/dropbox/README.md][PlDb] |
-| Remix JS        | [plugins/dropbox/README.md][PlDb] |
-| Gatsby JS       | [plugins/github/README.md][PlGh]  |
-| Expo (for apps) | [plugins/github/README.md][PlGh]  |
+| Next JS         | [See Details](https://github.com/legendtemplate/roadmap-template/tree/main/react/framework/nextjs) |
+| Remix JS        | [See Details](https://github.com/legendtemplate/roadmap-template/tree/main/react/framework/remixjs) |
+| Gatsby JS       | [See Details](https://github.com/legendtemplate/roadmap-template/tree/main/react/framework/gatsbyjs) |
+| Expo (for apps) | [plugins/github/README.md](https://github.com/legendtemplate/roadmap-template/tree/main/react/framework/expo)  |
 
 ---
 
@@ -53,10 +53,10 @@
 
 | Technology |                                   |
 | ---------- | --------------------------------- |
-| Sanity     | [plugins/dropbox/README.md][PlDb] |
-| Strapi     | [plugins/dropbox/README.md][PlDb] |
-| Contentful | [plugins/dropbox/README.md][PlDb] |
-| Storyblok  | [plugins/dropbox/README.md][PlDb] |
+| Sanity     | [See Details][PlDb] |
+| Strapi     | [See Details][PlDb] |
+| Contentful | [See Details][PlDb] |
+| Storyblok  | [See Details][PlDb] |
 
 ### Backend
 
