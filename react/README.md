@@ -5,3 +5,5 @@ Start a New React Project.
 ```bash
 npx create-react-app folder-name
 ```
+
+## Expo (app)
