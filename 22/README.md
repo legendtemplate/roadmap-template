@@ -14,3 +14,4 @@ Make a database on dashboard on `storage tab` and make it.
 
 ***
 ### Firebase
+npm install prisma --save-dev
