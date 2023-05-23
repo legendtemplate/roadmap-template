@@ -4,9 +4,9 @@
 
 ### [Styling & Structure](https://github.com/legendtemplate/roadmap-template/tree/main/0)
 
-| Technology |     |      |            |              |             |           |
-| ---------- | --- | ---- | ---------- | ------------ | ----------- | --------- |
-| HTML       | CSS | Scss | Chakura UI | Tailwind CSS | Material UI | Bootstrap |
+| Technology |     |      |            |              |             |           |            |
+| ---------- | --- | ---- | ---------- | ------------ | ----------- | --------- | ---------- |
+| HTML       | CSS | Scss | Chakura UI | Tailwind CSS | Material UI | Bootstrap | Ant Design |
 
 ---
 
@@ -61,6 +61,7 @@
 ### [Git & Github](https://education.github.com/git-cheat-sheet-education.pdf)
 
 ---
+
 [![Hello](https://img.freepik.com/premium-vector/front-end-developer-typographic-header_277904-11487.jpg?w=2000)](https://github.com/legendtemplate/roadmap-template/tree/main/7-Frontendproject)
 
 ## Backend Development
@@ -83,14 +84,14 @@
 
 ### [Database](https://github.com/legendtemplate/roadmap-template/tree/main/22)
 
-| Technology |         |            |
-| ---------- | ------- | ---------- |
-| Firebase   | MongoDB | Postgresql |
+| Technology |         |            |                 |
+| ---------- | ------- | ---------- | --------------- |
+| Firebase   | MongoDB | Postgresql | Vercel Postgres |
 
 ---
 
 [![Hello](https://cdn.hashnode.com/res/hashnode/image/upload/v1683963073446/b6da9f72-e6dc-465e-baa1-bf9520edd38c.png)](https://github.com/legendtemplate/roadmap-template/tree/main/30-Backendproject)
 
 git add .
-git commit -m "updated : 18:30 18/05/2023"
+git commit -m "updated : 9:40 23/05/2023"
 git push
