@@ -1,7 +1,7 @@
 ## Chakura UI
 
 ```bash
-npm i @chakra-ui/react @chakra-ui/icons @emotion/react @emotion/styled framer-motion react-icons @chakra-ui/next
+npm i @chakra-ui/react @chakra-ui/icons @emotion/react @emotion/styled framer-motion react-icons @chakra-ui/next-js
 ```
 
 [`starting point is`](https://chakra-ui.com/getting-started#framework-guide).
