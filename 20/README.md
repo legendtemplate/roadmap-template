@@ -1,5 +1,5 @@
 ### Prisma 
-> [Quickstart](https://www.prisma.io/docs/getting-started/quickstart) <br /> 
+> [Quickstart](https://vercel.com/guides/nextjs-prisma-postgres) <br /> 
 
 ***
 
