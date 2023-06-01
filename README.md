@@ -2,13 +2,6 @@
 
 ## Frontend Development
 
-### [Styling & Structure](https://github.com/legendtemplate/roadmap-template/tree/main/0)
-
-| Technology |     |      |            |              |             |           |            |
-| ---------- | --- | ---- | ---------- | ------------ | ----------- | --------- | ---------- |
-| HTML       | CSS | Scss | Chakura UI | Tailwind CSS | Material UI | Bootstrap | Ant Design |
-
----
 
 ### [Functionality](https://github.com/legendtemplate/roadmap-template/tree/main/1)
 
