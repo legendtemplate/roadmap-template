@@ -1,18 +1,28 @@
 ```bash
 import { NextPage } from "next";
-import { productData } from "@/type/index";
+import Image from "next/image";
+import Link from "next/link";
+import { Product } from "@/types/product/page";
 
 interface IProps {
-  product: productData;
+  product: Product;
 }
 
 const card: NextPage<IProps> = ({
-  product: { image, title, slug, referenceList, discountprice, price },
+  product: {
+    image,
+    title,
+    slug,
+    catgeory,
+    subcatgeory,
+    brand,
+    discountprice,
+    price,
+  },
 }) => {
-  return <span>{price}</span>;
+  return ();
 };
 export default card;
-
 ```
 
 
