@@ -92,6 +92,15 @@ react native (5)
 ---
 
 [![Hello](https://cdn.hashnode.com/res/hashnode/image/upload/v1683963073446/b6da9f72-e6dc-465e-baa1-bf9520edd38c.png)](https://github.com/legendtemplate/roadmap-template/tree/main/30-Backendproject)
+```bash
+import type { NextPage } from "next";
+import HomePage from "@/templates/HomePage";
+
+const Home: NextPage = () => {
+  return <></>;
+};
+export default Home;
+```
 
 git add .
 git commit -m "updated : 14:05 23/05/2023"
