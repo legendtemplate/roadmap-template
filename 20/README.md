@@ -28,3 +28,33 @@ npx prisma generate
 ```
 
 ***
+
+
+
+### Node JS
+
+```bash
+npm i express colors
+```
+##### [Express](http://expressjs.com/)
+
+```bash
+import express from 'express'
+
+const app = express();
+const PORT = 8000 
+app.use(express.json());
+
+
+app.listen(PORT, () => {
+    console.log(`Server running on port ${PORT}`)
+})
+```
+
+##### [Colors](https://www.npmjs.com/package/colors)
+
+```bash
+import colors from 'colors'
+```
+
+##### dotenv 
