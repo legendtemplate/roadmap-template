@@ -34,7 +34,7 @@ npx prisma generate
 ### Node JS
 
 ```bash
-npm i express colors mongoose dotenv morgan
+npm i express colors mongoose dotenv morgan cors
 ```
 ##### .env file
 ```bash
