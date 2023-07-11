@@ -67,8 +67,22 @@ import colors from 'colors'
 ##### dotenv 
 
 ```bash
-import dotenv from 'dotenv'
+import morgan from 'morgan'
 dotenv.config();
+```
+
+##### morgan 
+
+```bash
+import dotenv from 'dotenv'
+app.use(morgan("dev"));
+```
+
+##### cors 
+
+```bash
+import cors from 'cors'
+app.use(cors());
 ```
 
 ##### Mongoose
@@ -100,3 +114,154 @@ export default connectDB;
 
 ```
 
+##### Model 
+
+```bash
+import mongoose from "mongoose";
+
+const productSchema = new mongoose.Schema(
+  {
+    name: {
+      type: String,
+      required: true,
+    },
+  },
+  {
+    timestamps: true,
+  }
+);
+
+export default mongoose.model("Product", productSchema);
+
+```
+
+
+##### Controller 
+```bash
+import productModel from "../model/productModel.js";
+```
+
+```bash
+// create
+export const createCategoryController = async (req, res) => {
+  try {
+    const { name, description, number } = req.body;
+
+    const category = await new productModel({
+      name,
+      number,
+      description,
+    }).save();
+    res.status(200).send({
+      success: true,
+      message: "new category created",
+      category,
+    });
+  } catch (error) {
+    console.log(error);
+    res.status(500).send({
+      success: false,
+      message: "Errro in Category",
+      error,
+    });
+  }
+};
+
+```
+
+```bash
+// update
+export const updateCategoryController = async (req, res) => {
+  try {
+    const { name, description, number } = req.body;
+    const { id } = req.params;
+    const category= await productModel.findByIdAndUpdate(id, { name,description, number  }, { new: true });
+
+    res.status(200).send({
+      success: true,
+      messsage: "Category Updated Successfully",
+      category,
+    });
+  } catch (error) {
+    console.log(error);
+    res.status(500).send({
+      success: false,
+      error,
+      message: "Error while updating category",
+    });
+  }
+};
+```
+
+```bash
+// delete
+export const deleteCategoryController = async (req, res) => {
+  try {
+    const { id } = req.params;
+    const category = await productModel.findByIdAndDelete(id);
+    res.status(200).send({
+      success: true,
+      message: "Categry Deleted Successfully",
+      category
+    });
+  } catch (error) {
+    console.log(error);
+    res.status(500).send({
+      success: false,
+      message: "error while deleting category",
+      error,
+    });
+  }
+};
+```
+
+```bash
+// get all cat
+export const categoryControlller = async (req, res) => {
+  try {
+    const category = await productModel.find();
+    res.status(200).send({
+      success: true,
+      message: "All Categories List",
+      category,
+    });
+  } catch (error) {
+    console.log(error);
+    res.status(500).send({
+      success: false,
+      error,
+      message: "Error while getting all categories",
+    });
+  }
+};
+```
+
+
+##### Routes
+```bash
+import express from "express";
+import {
+  createCategoryController,
+  updateCategoryController,
+  deleteCategoryController,
+  categoryControlller,
+  singleCategoryController,
+} from "../controller/categoryController.js";
+
+const router = express.Router();
+
+router.post("/create-category", createCategoryController);
+router.put("/update-category/:id", updateCategoryController);
+router.delete("/delete-category/:id", deleteCategoryController);
+router.get("/get-category", categoryControlller);
+router.get("/get-category/:id", singleCategoryController);
+
+export default router;
+```
+
+```bash
+// export router
+import productRoutes from "./routes/productRoutes.js";
+app.use('/products', productRoutes);
+
+```
