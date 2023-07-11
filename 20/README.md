@@ -34,21 +34,28 @@ npx prisma generate
 ### Node JS
 
 ```bash
-npm i express colors
+npm i express colors mongoose dotenv
 ```
+##### .env file
+```bash
+MONGO_URL = ''
+DEV_MODE = 'production'
+PORT = 7000
+```
+
 ##### [Express](http://expressjs.com/)
 
 ```bash
 import express from 'express'
 
 const app = express();
-const PORT = 8000 
+const PORT = 8000 || process.env.PORT;
 app.use(express.json());
 
 
 app.listen(PORT, () => {
-    console.log(`Server running on port ${PORT}`)
-})
+    console.log(`Server ${process.env.DEV_MODE} running on port ${PORT}`.bgCyan.white);
+});
 ```
 
 ##### [Colors](https://www.npmjs.com/package/colors)
@@ -58,3 +65,38 @@ import colors from 'colors'
 ```
 
 ##### dotenv 
+
+```bash
+import dotenv from 'dotenv'
+dotenv.config();
+```
+
+##### Mongoose
+
+```bash
+// import main file
+import connectDB from "./config/db.js";
+connectDB();
+// file in config/db.js
+import mongoose from "mongoose";
+import colors from "colors";
+
+const connectDB = async () => {
+  try {
+    const uri = process.env.MONGO_URL
+    const conn = await mongoose.connect(uri ,{
+        useNewUrlParser:true,
+        useUnifiedTopology:true
+    });
+    console.log(
+      `Conneted To Mongodb Databse ${conn.connection.host}`.bgMagenta.white
+    );
+  } catch (error) {
+    console.log(`Errro in Mongodb ${error}`.bgRed.white);
+  }
+};
+
+export default connectDB;
+
+```
+
